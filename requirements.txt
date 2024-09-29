@@ -1,0 +1,5 @@
+langgraph
+langchain_openai
+langchain_community
+python-dotenv
+duckduckgo-search
